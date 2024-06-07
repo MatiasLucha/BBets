@@ -114,7 +114,7 @@ print(uci)
 
 <!--Explain and display the results of your method of coming up with the estimate of professor Brownlows betting profits!-->
 
-
+For it to be a fair bet, the graph shows the need to have 28 people in the class, with a 2:3 ratio. 28 partipants is the closest to a fair bet.
 
 
 
@@ -125,3 +125,4 @@ print(uci)
 
 <!--Discussion and conclusion here.  If professor Brownlow is consistantly making or losing money how could he change his payout so that his profits center on zero?  Also discuss what size his class should be in order to have his current scheme balance at zero profit.!-->
 
+28 people in class then the 2:3 bet is about fair.
